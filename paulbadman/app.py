@@ -1,5 +1,11 @@
+# discord.py
 import discord
 from discord.ext import commands
+
+# secrets
+import os
+
+# paulbadman
 import botconstants
 from programmed_responses import check_for_triggers
 
@@ -49,6 +55,11 @@ async def on_message(message):
     Run the bot
 
 """
+print("Checking for Bot Token")
 
+bot_token = os.environ.get("DISCORD_TOKEN")
 
-bot.run('')
+if not bot_token:
+    raise Exception("BOT TOKEN ENVIRONMENT VARIABLE MISSING!!!")
+
+bot.run(bot_token)

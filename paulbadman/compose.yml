@@ -1,0 +1,8 @@
+services:
+  paulbadman:
+    build: .
+    environment:
+      - DISCORD_TOKEN
+secrets:
+  DISCORD_TOKEN:
+    file: ./DISCORD.env
