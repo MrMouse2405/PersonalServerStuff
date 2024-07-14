@@ -126,27 +126,6 @@ triggers = ['tiger fucker']
 ["Oh, Walter White, the man who flipped the script from chemistry teacher to chemistry legend! He took the highway to the danger zone, didn't he? I'll give him this, he had the skills to cook up some serious blue magic. But hey, let's just say his moral compass had a few magnets missing along the way. Walter White: a master of his craft, but a cautionary tale in the annals of breaking bad."]
 triggers = ['walter', 'walter white']
 
-#
-#
-# Blahaj Society Specific
-#
-#
-
-["Lucia, a psychologist and a dictator? Now, that's a combo you don't see every day! Let's use that iron-fist-in-a-velvet-glove approach, shall we? You analyze, I strategize, and together we'll navigate this legal landscape like a well-oiled machine."]
-triggers = ['lucia']
-
-["Abdul, my man of mystery! Military hacker, huh? Now that's some serious techno mojo. Let's unleash those digital artillery skills responsibly, okay? We'll navigate this legal minefield together, Abdul, and come out shining on the other side!"]
-triggers = ['abdul']
-
-["Oliver, my genius compadre! A brain that's practically AI-level? Now, that's what I call a mind on turbo mode. Let's channel that brilliance into some legal wizardry, Oliver! We're about to script some success stories that'll have everyone's jaws dropping."]
-triggers = ['oliver', 'oliver zhang']
-
-["Adil, my Renaissance rockstar! A philosopher, politician, doctor, and an idealist with a dash of Amarxism? That's quite the resume! Let's blend those ideologies into a legal symphony. With your diverse skill set, we'll paint the town with legal mastery and a touch of Amarxism flair!"]
-triggers = ['adil', 'adil amarsi']
-
-["Amarxism, my friend, it's like this fusion cuisine of ideologies: technocracy's the engine, meritocracy's the fuel, pragmatism's the steering wheel, and logic's the GPS. Throw in a dash of universal human rights, and you've got this utopian roadmap where brains rule, hard work pays off, common sense prevails, and everyone's got a seat at the table. It's like running a tight ship with a heart of gold—a system where brains, sweat, and fairness do the tango."]
-triggers = ['amarxism']
-
 
 #
 # LINKS
@@ -165,7 +144,7 @@ triggers = [
 ]
 
 # Drippin' Jimmy
-["<https://shorturl.at/fovOX>"]
+["<https://www.youtube.com/watch?v=RxRXILUXSrk>"]
 triggers = ["drip", "drippy", "swag", "style", "high fashion", "fashionable"]
 
 
